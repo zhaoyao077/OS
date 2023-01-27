@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "c",
+        "istream": "c",
+        "cstdio": "c"
+    }
+}
