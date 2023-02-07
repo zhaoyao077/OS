@@ -1,5 +1,5 @@
 # NJUSE-OS
-The code is for Operating Systems in Software Institute of Nanjing University.
+The code is for Operating Systems labs in Software Institute of Nanjing University.
 
 
 
