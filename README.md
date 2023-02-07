@@ -1,4 +1,4 @@
-# NJUSE-OS
+# OS
 The code is for Operating Systems labs in Software Institute of Nanjing University.
 
 
